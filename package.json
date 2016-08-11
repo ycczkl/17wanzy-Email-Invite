@@ -1,0 +1,25 @@
+{
+  "name": "17wanzy-Email-Invite",
+  "version": "0.0.0",
+  "description": "send email to subscribers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ycczkl/17wanzy-Email-Invite.git"
+  },
+  "author": "kelun zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycczkl/17wanzy-Email-Invite/issues"
+  },
+  "homepage": "https://github.com/ycczkl/17wanzy-Email-Invite",
+  "dependencies": {
+    "bluebird": "~3.4.1",
+    "mongodb": "^2.2.5",
+    "nodemailer": "^2.5.0",
+    "xoauth2": "^1.2.0"
+  }
+}
